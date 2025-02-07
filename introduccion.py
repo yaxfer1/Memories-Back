@@ -10,7 +10,7 @@ from langchain.globals import set_verbose
 
 set_verbose(True)
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-CfBlBUgXSWNOo7Un1r9KT3BlbkFJracmo7raiyQzckuqCsMG"
+os.environ["OPENAI_API_KEY"] = 
 encoder = OpenAIEncoder(name="text-embedding-3-small")
 
 from pinecone import Pinecone
