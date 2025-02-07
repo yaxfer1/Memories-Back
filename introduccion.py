@@ -20,7 +20,7 @@ PINECONE_API_KEY = "pcsk_7NdFx6_QyF2vGLihLJCB3hrH1xFvQYBa54XcxBaKiLCNvvnWKB1tpiY
 
 # configure client
 pc = Pinecone(api_key=PINECONE_API_KEY)
-pc_o = Pinecone(api_key="pcsk_5TXYFV_8g6vB1yNCBoMNXmFZY4A9ZRiTdPE9BBvBTGfS4EwYonckAvyYgEdVLKd1QeXQgu")
+pc_o = Pinecone(api_key="")
 from pinecone import ServerlessSpec
 
 spec = ServerlessSpec(
