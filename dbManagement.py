@@ -6,10 +6,10 @@ import mysql.connector
 
 # Configuración de la conexión a la base de datos
 config = {
-    'user': 'root',
-    'password': 'Hefestion7',
+    'user': '',
+    'password': '',
     'host': 'localhost',
-    'database': 'tennews'
+    'database': ''
 }
 
 def obtain_id_username(username):
