@@ -16,7 +16,7 @@ encoder = OpenAIEncoder(name="text-embedding-3-small")
 from pinecone import Pinecone
 
 # initialize connection to pinecone (get API key at app.pinecone.io)
-PINECONE_API_KEY = "pcsk_7NdFx6_QyF2vGLihLJCB3hrH1xFvQYBa54XcxBaKiLCNvvnWKB1tpiYPHG79P6zgGHQY6h"
+PINECONE_API_KEY = ""
 
 # configure client
 pc = Pinecone(api_key=PINECONE_API_KEY)
