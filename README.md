@@ -13,4 +13,4 @@ This project aims to make a human-in-the-loop iteration based on the retrieving 
 - There are some cases of users querys that dont work. Next step is to fix that cases with probably a semantic router.
 - Using Pinecone atm because of the ease of use. Long term will probably move towards a MongoDB or Chroma for retrieval.
 
-Link to [Front](https://github.com/yaxfer1/Memories-Back) Repo
+Link to [Front](https://github.com/yaxfer1/Memories.git) Repo.
